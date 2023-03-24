@@ -24,6 +24,7 @@
 
 ### Awesome Plugin Repos:
 - [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)
+- [gerev-chatgpt-plugin](https://github.com/gerevai/gerev)
 
 ### Awesome Plugins:
 - Browsing: An experimental model that knows when and how to browse the internet
