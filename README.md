@@ -10,6 +10,7 @@
 - [Retrieval Demo (MP4 file)](https://cdn.openai.com/chat-plugins/retrieval-gh-repo-readme/Retrieval-Final.mp4)
 - [On-demand video processing](https://twitter.com/gdb/status/1638971232443076609)
 - [Summarizing a HackerNews thread](https://twitter.com/gdb/status/1638986918947082241)
+- [Emulator for Plugins](https://play.chatplugin.app)
 
 ### Creating a plugin:
 - [Full documentation](https://platform.openai.com/docs/plugins/introduction)
